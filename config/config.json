@@ -1,0 +1,30 @@
+{
+  "filename": "config",
+  "model_path": "../results/model8.tar",
+  "seq_len": 100,
+  "batch_size": 32,
+  "seed": 391425,
+  "ignore_index": 1,
+  "lr_main": 0.01,
+  "drop_out": 0.1,
+  "epochs": 1,
+
+  "nhead": 2,
+  "num_encoder_layers": 2,
+  "d_model": 32,
+
+  "x_boxes": 10,
+  "y_boxes": 15,
+
+  "group": 1,
+
+  "elt_name_include": 1,
+
+  "noise_dist": "uniform",
+  "noise_stddev": 0.5,
+
+  "noise_low": -2,
+  "noise_high": 2,
+
+  "minoverlap": 0.9
+}
