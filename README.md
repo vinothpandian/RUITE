@@ -21,7 +21,7 @@
 
 > RUITE is a UI layout refiner that allows designers to automatically align and group the given UI layout.
 
-API: ruite.blackbox-toolkit.vinoth.info
+Demo: [ruite.blackbox-toolkit.vinoth.info](ruite.blackbox-toolkit.vinoth.info)
 
 ## Authors
 
