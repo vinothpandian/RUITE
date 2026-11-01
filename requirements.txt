@@ -23,5 +23,5 @@ torchtext==0.8.1
 torchvision==0.8.2
 tqdm==4.55.0
 typing-extensions
-urllib3==1.26.2
+urllib3==1.26.5
 tensorboard
