@@ -21,7 +21,7 @@ threadpoolctl==2.1.0
 torch==2.13.0
 torchtext==0.8.1
 torchvision==0.8.2
-tqdm==4.55.0
+tqdm==4.66.3
 typing-extensions
 urllib3==2.8.0
 tensorboard
